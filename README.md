@@ -2,7 +2,7 @@
 # when ever I write bash(it refers to run in a terminal)
 # Task Manager App (Flutter + Supabase)
 
-![Dark Theme with Gold Accents](screenshot.png)
+![Dark Theme with Gold Accents]
 
 ## 🚀 Setup Instructions
 
@@ -15,7 +15,7 @@
 ### Installation
 Clone the repository:
    ```bash
-   git clone https://github.com/joe2130/task-manager.git
+   git clone https://github.com/joe2130/task-manager-flutter.git
    cd task-manager
 
 Install dependencies:
